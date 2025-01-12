@@ -1,4 +1,4 @@
-# chess program
+# Chess program
 The first practical graded task will require you to implement a Python program which will answer a simple question – given a board state that the user enters, with 1 white figure and up to 16 black figures, which black figures can the white figure take?
 
 # Explanation
